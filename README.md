@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @silv4bprof
-- 🌱 I’m currently learning python
-
-<!---
-silv4bprof/silv4bprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Pratiquem, pratiquem e pratiquem!
+- 🌱 Ctrl + C e Ctrl + V não serve de nada se não souberem explicar o código.
+- 📔 Tem livro na biblioteca, programar também é ler.
+- 🧩 Interpretação de texto também é importante.
